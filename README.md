@@ -2,7 +2,7 @@
 
 The RedisHelper.php packaging processing.
 
-#config.php 
+config.php 
 
 return [
 
